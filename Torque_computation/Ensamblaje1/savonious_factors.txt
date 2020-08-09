@@ -1,3 +1,0 @@
-﻿"elli_mayor"= 198mm
-"superposition"= 30
-"cut_angle"= 47.5deg
